@@ -76,7 +76,10 @@ WSGI_APPLICATION = 'my_django15_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'NAME': 'django_db',
+        'USER': 'root', 
+        'PASSWORD': '12345', 
+#'NAME': os.path.join(BASE_DIR, 'db.sqlite3',),
     }
 }
 
