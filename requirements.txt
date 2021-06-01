@@ -115,7 +115,7 @@ Twisted-Words==15.2.1
 txsocksx==0.0.0
 url==0.1.5
 urlgrabber==3.9.1
-urllib3==1.11
+urllib3==1.26.5
 user-agent==0.1.1
 vboxapi==1.0
 virtualenv==14.0.5
