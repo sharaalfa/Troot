@@ -44,7 +44,7 @@ mock==1.3.0
 moves==0.1
 ndg-httpsclient==0.4.0
 nose==1.3.6
-numpy==1.11.1
+numpy==1.22.0
 oauthlib==1.0.0
 obfsproxy==0.2.12
 oneconf==0.3.8
