@@ -48,7 +48,7 @@ numpy==1.11.1
 oauthlib==1.0.0
 obfsproxy==0.2.12
 oneconf==0.3.8
-openpyxl==2.3.3
+openpyxl==2.4.2
 PAM==0.4.2
 pandas==0.17.1
 Parsley==1.2
