@@ -122,7 +122,7 @@ virtualenv==14.0.5
 w3lib==1.13.0
 weblib==0.1.20
 websocket-client==0.18.0
-wheel==0.29.0
+wheel==0.38.1
 xdiagnose==3.8.1
 xlrd==0.9.4
 xlwt==1.0.0
